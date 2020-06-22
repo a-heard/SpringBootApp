@@ -21,10 +21,5 @@ public class firstController {
       model.addAttribute("studentClass", studentClass);
       return "enrollmentForm";
   }  
-//   @PostMapping("/enroll")
-//   public String submitForm(@ModelAttribute("user") User user){
-//       System.out.println(user);
-//       return "register_success";
-      
-//   }
+
 }

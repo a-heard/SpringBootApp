@@ -1,8 +1,5 @@
 package com.winspring;
 
-
-
-
 import java.sql.Date;
 
 public class Student {
